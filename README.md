@@ -5,7 +5,7 @@
 - 이 프로젝트는 Instacart의 시장 장바구니 데이터를 분석하여 고객의 구매 패턴을 파악하고, 이를 바탕으로 고객 세분화 및 맞춤형 전략을 제시하는 것입니다. Instacart는 미국의 온라인 식료품 쇼핑 플랫폼으로, 고객 데이터를 분석해 더 나은 마케팅 전략과 추천 시스템을 제공합니다. RFM 분석과 머신러닝을 활용해 고객 세분화와 재구매 예측을 통해 사용자 만족도와 비즈니스 성과를 높이는 것을 목표로 합니다.
 
 ### 💻 프로젝트 링크  
-- PPT 자료 Link
+- PPT 자료 첨부 자료 확인
 - 시각화 Tableau 자료 Link
 - Machine Learning 방법 및 코드 확인 Link
 - kaggle Instacart Market Basket Analysis Link 
