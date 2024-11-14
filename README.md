@@ -8,7 +8,7 @@
 - PPT 자료 첨부 자료 확인
 - 시각화 Tableau 자료 Link
 - Machine Learning 방법 및 코드 확인 Link
-- kaggle Instacart Market Basket Analysis Link 
+- kaggle Instacart Market Basket Analysis [LINK](https://www.kaggle.com/c/instacart-market-basket-analysis) 
 
 # 📑 프로젝트 결과 소개
 
