@@ -6,7 +6,7 @@
 
 ### 💻 프로젝트 링크  
 - PPT 자료 첨부 자료 확인
-- Machine Learning 방법 및 코드 확인 Link
+- Machine Learning 코드 첨부 자료 확인
 - kaggle Instacart Market Basket Analysis [LINK](https://www.kaggle.com/c/instacart-market-basket-analysis) 
 
 # 📑 프로젝트 결과 소개
