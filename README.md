@@ -1,5 +1,5 @@
 # 🛒 Instacart Market Basket Analysis
-> **RFM 분석 기반 세분화 전략 및 머신러닝 기반 재구매 예측**
+> **RFM 분석 기반 세분화 전략 및 머신러닝 기반 재구매 예측** \
 > Advisor: 민형기 교수님(한양대학교)
 
 ### 📌 프로젝트 소개
